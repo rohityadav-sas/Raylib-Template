@@ -12,7 +12,6 @@ To get started with this template, follow these steps:
 2. Install the necessary dependencies for your platform. Refer to the Raylib documentation for detailed instructions.
 3. Open the project in your preferred IDE or text editor.
 4. Press F5 to build and run the project.
-    ```hello```
 
 ## Features
 
