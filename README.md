@@ -8,7 +8,7 @@ This is a starter template for creating projects using the Raylib game developme
 
 ## Preview
 
-![preview.png](./assets/preview.png)
+![preview.png](./assets/preview.png?raw=true)
 
 ## Getting Started
 
