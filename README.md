@@ -2,6 +2,14 @@
 
 This is a starter template for creating projects using the Raylib game development library. Raylib is a simple and easy-to-use library for creating 2D and 3D games, with support for multiple platforms.
 
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Features](#features)
+
+## Preview
+
+![preview.png](./assets/preview.png)
+
 ## Getting Started
 
 To get started with this template, follow these steps:
